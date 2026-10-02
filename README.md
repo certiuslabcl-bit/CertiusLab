@@ -12,4 +12,4 @@ Open, reproducible research on how AI meets crypto, forex and global markets.
 - Telegram: https://t.me/certiuslabofficial
 - X: https://x.com/CertiusLab
 - Website: https://t.co/n9pQeWAjon
--Education only, not financial advice. Trading involves risk of loss.
+### Education only, not financial advice. Trading involves risk of loss.
